@@ -1,4 +1,4 @@
-// Learning C++ 
+// Learning C++ with modifications
 // Exercise 00_03
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
